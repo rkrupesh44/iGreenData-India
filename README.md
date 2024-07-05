@@ -1,6 +1,6 @@
 # iGreenData-India
 Assessment
-# Version App
+# iGreenData-India App
 
 ## Description
 
