@@ -30,12 +30,12 @@ This is a simple Flask application with an endpoint that returns version informa
 
 2. **Build the Docker image**
     ```sh
-    docker build -t your-docker-repo/version-app:latest .
+    docker build -t your-docker-repo/iGreenData-India:latest .
     ```
 
 3. **Run the application**
     ```sh
-    docker run -p 5000:5000 your-docker-repo/version-app:latest
+    docker run -p 5000:5000 your-docker-repo/iGreenData-India:latest
     ```
 
 4. **Deploy to Kubernetes**
