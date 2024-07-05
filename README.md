@@ -24,8 +24,8 @@ This is a simple Flask application with an endpoint that returns version informa
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/your-repo/version-app.git
-    cd version-app
+    git clone https://github.com/rkrupesh44/iGreenData-India.git
+    cd iGreenData-India
     ```
 
 2. **Build the Docker image**
